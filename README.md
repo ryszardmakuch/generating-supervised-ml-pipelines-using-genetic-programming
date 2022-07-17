@@ -34,7 +34,7 @@ Example of my mutation operation:
 
 ![Example of my mutation operation](/img/2.png)
 
-A prototype showing how my idea works has been implemented using Scala and Apache Spark.
+A prototype showing how my idea works has been implemented in Scala using Apache Spark.
 
 ![Example of prototype outcome](/img/3.png)
 
