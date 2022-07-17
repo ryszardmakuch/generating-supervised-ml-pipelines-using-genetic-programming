@@ -4,13 +4,13 @@ As part of my Master's Thesis, I developed a way to generate supervised machine 
 - http://epistasislab.github.io/tpot/
     - [[OBUM16]](https://dl.acm.org/doi/10.1145/2908812.2908918) Randal S. Olson, Nathan Bartley, Ryan J. Urbanowicz, Jason H. Moore. Evaluation of
 a tree-based pipeline optimization tool for automating data science. Proceedings of the
-Genetic and Evolutionary Computation Conference 2016, GECCO ’16, strony 485–492,
+Genetic and Evolutionary Computation Conference 2016, GECCO ’16, pages 485–492,
 New York, NY, USA, 2016. ACM.
 - https://laic-ufmg.github.io/Recipe/docs/about/
     - [[dSPOP17]](https://link.springer.com/chapter/10.1007/978-3-319-55696-3_16) Alex Guimarães Cardoso de Sá, Walter José G. S. Pinto, Luiz Otávio Vilas Boas Olive-
 ira, Gisele L. Pappa. RECIPE: A grammar-based framework for automatically evolving
-classification pipelines. EuroGP, wolumen 10196 serii Lecture Notes in Computer Science,
-strony 246–261, 2017.
+classification pipelines. EuroGP, Lecture Notes in Computer Science, vol 10196. Springer,
+pages 246–261, 2017.
 
 ### What was my idea about?:
 
@@ -49,10 +49,10 @@ diagram interpretation. IEEE Transactions on Pattern Analysis and Machine Intell
 PAMI-4(6):574–582, Nov 1982.
 - [[Bun83]](https://link.springer.com/chapter/10.1007/BFb0000096) Horst Bunke. Graph grammars as a generative tool in image understanding. Hartmut
 Ehrig, Manfred Nagl, Grzegorz Rozenberg, redaktorzy, Graph-Grammars and Their Ap-
-plication to Computer Science, strony 8–19, Berlin, Heidelberg, 1983. Springer Berlin
+plication to Computer Science, pages 8–19, Berlin, Heidelberg, 1983. Springer Berlin
 Heidelberg.
 - [[Cra85]](https://dl.acm.org/doi/10.5555/645511.657085) Nichael L. Cramer. A representation for the adaptive generation of simple sequential
-programs. Proceedings of the 1st International Conference on Genetic Algorithms, strony
+programs. Proceedings of the 1st International Conference on Genetic Algorithms, pages
 183–187, Hillsdale, NJ, USA, 1985. L. Erlbaum Associates Inc.
 - [[Koz92]](https://link.springer.com/article/10.1007/BF00175355) John R. Koza. Genetic Programming: On the Programming of Computers by Means of
 Natural Selection. MIT Press, Cambridge, MA, USA, 1992.
@@ -70,4 +70,3 @@ Natural Selection. MIT Press, Cambridge, MA, USA, 1992.
 - https://docs.databricks.com/applications/machine-learning/automl.html,
 - https://www.datarobot.com/platform/automated-machine-learning/,
 - https://rapidminer.com/platform/automated-data-science/.
-
